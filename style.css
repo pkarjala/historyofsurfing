@@ -1,0 +1,23 @@
+body {
+  background-image: url("./surfer_background.jpg");
+  color: #ff00da;
+  font-family: "Lato", sans-serif;
+  text-align: center;
+}
+
+h1.title {
+  font-family: "Rambla", sans-serif;
+}
+
+span.surfer {
+  position: relative;
+  left: 150px;
+  bottom: 100px;
+  z-index: 99;
+}
+
+img {
+  position: relative;
+  width: 200px;
+  height: 200px;
+}
